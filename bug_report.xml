@@ -1,0 +1,10 @@
+<root>
+   <element name="step_1">Open https://test.com</element>
+   <element name="step_2">Sing in: login - test/password - testing</element>
+   <element name="step_3">Open a chat dialog with 'Test1 Testington'</element>
+   <element name="step_4">Click on the button 'Setting' - add user</element>
+   <element name="step_5">Add any user to a group conversation - click Done</element>
+   <element name="step_6">Click again on 'Setting' to rename the group conversation</element>
+   <element name="Actual result">the button 'Remane conversation' is disabled for the creator of the group convercation</element>
+   <element name="Expected result">all participants should be able to rename a group conversation</element>
+</root>
