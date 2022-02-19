@@ -1,0 +1,21 @@
+<root>
+   <element>basic theory</element>
+   <element>HTTP</element>
+   <element>JSON</element>
+   <element>XML</element>
+   <element>Postman</element>
+   <element>Charles</element>
+   <element>Fiddler</element>
+   <element>Dev Tools browser</element>
+   <element>VPN</element>
+   <element>Mobile testing</element>
+   <element>Android Studio</element>
+   <element>ADB</element>
+   <element>Terminal</element>
+   <element>Bash</element>
+   <element>SQL</element>
+   <element>Postgres</element>
+   <element>Redis</element>
+   <element>Jmeter</element>
+   <element>Scrum</element>
+</root>

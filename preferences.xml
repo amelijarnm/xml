@@ -1,0 +1,7 @@
+<root>
+   <element name="favorite movie">Forrest Gump</element>
+   <element name="favorite series">Dr. House</element>
+   <element name="favorite food">shawarma</element>
+   <element name="favorite season">summer</element>
+   <element name="favorite country">Norway</element>
+</root>
